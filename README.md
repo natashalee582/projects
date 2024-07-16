@@ -1,8 +1,6 @@
 # projects
 These are the projects that I've written during my freshman year
 
-Each folder contains a description of the skills required for each project.
-
 ## Explanation of Required Skills for "Planwar" Project
 1. Java 程式設計：
 物件導向程式設計 (OOP)：了解類別、物件、繼承、多型和封裝等概念。
