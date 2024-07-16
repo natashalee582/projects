@@ -1,0 +1,29 @@
+1. Java 基礎知識：
+類和方法的定義和使用。
+理解變數宣告和資料型別，如 int、String。
+
+2. 字串操作：
+String.length() 獲取字串長度。
+String.charAt(int index) 獲取字串中特定位置的字符。
+String.toLowerCase() 將字串轉換為小寫。
+
+3. 字符處理：
+Character.isLetter(char ch) 判斷字符是否為字母。
+Character.toLowerCase(char ch) 將字符轉換為小寫。
+
+4. 文件讀取：
+BufferedReader 和 FileReader 類讀取文件內容。
+BufferedReader.readLine() 讀取文件中的一行內容。
+
+5. 演算法設計：
+while 迴圈設計檢查回文的演算法。
+嵌套 for 迴圈設計檢查子字串存在和計算子字串出現次數的演算法。
+設計特定模式匹配演算法，檢查字串中是否存在以 A 開頭且後接至少兩個 B 的模式。
+
+6. 程式設計：
+將每個功能（如檢查回文、檢查子字串存在、計算子字串出現次數和特定模式匹配）分解為獨立的方法。
+在主方法中呼叫這些方法，讀取文件並處理每行內容。
+
+7. 命令列參數處理：
+args 讀取命令列參數。
+Integer.parseInt() 將字串轉換為整數。
